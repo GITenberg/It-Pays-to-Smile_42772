@@ -1,0 +1,27 @@
+_repo: It-Pays-to-Smile_42772
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Putnam, Nina Wilcox
+    birthdate: 1888
+    deathdate: 1962
+    gutenberg_agent_id: '36558'
+    url: http://www.gutenberg.org/2009/agents/36558
+description: Title; Contents; I; II; III; IV; V; VI; VII; VIII; IX; X; XI; XII; XIII;
+  XIV; XV; XVI; XVII; XVIII
+gutenberg_issued: '2013-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: It Pays to Smile
+url: http://www.gutenberg.org/ebooks/42772
